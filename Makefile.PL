@@ -7,7 +7,7 @@ WriteMakefile
   'PREREQ_PM' => {
                    'Crypt::Eksblowfish::Bcrypt' => '0.009',
                    'Rose::DB' => '0.77',
-                   'Rose::DB::Object' => '0.803',
+                   'Rose::DB::Object' => '0.804',
                    'Rose::DBx::TestDB' => '0.05',
                    'Test::More' => 0
                  },
